@@ -1,0 +1,33 @@
+{
+  "name": "react-delayed-action-button",
+  "version": "1.0.0",
+  "description": "Button for react that allows cancelation before it runs the associated action.",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "1.2.14",
+    "@fortawesome/free-brands-svg-icons": "5.7.1",
+    "@fortawesome/free-regular-svg-icons": "5.7.1",
+    "@fortawesome/free-solid-svg-icons": "5.7.1",
+    "@fortawesome/react-fontawesome": "0.1.4",
+    "bootstrap": "4.2.1",
+    "debug": "4.1.1",
+    "react": "16.8.0",
+    "react-circular-progressbar": "1.0.0",
+    "react-dom": "16.8.0",
+    "react-scripts": "2.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}

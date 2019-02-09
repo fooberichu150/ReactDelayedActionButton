@@ -1,2 +1,0 @@
-# ReactDelayedActionButton
-Created with CodeSandbox

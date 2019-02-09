@@ -1,0 +1,29 @@
+.progress-button {
+  position: relative;
+
+  > button {
+    position: absolute;
+    left: calc(50% - 21px);
+    top: calc(50% - 19px);
+  }
+}
+
+.custom-content-progress-bar {
+  position: relative;
+  width: 100%;
+  height: 100%;
+
+  .progress-container {
+    position: absolute;
+  }
+
+  .content-container {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+}
